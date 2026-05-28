@@ -42,6 +42,11 @@ Desenvolvimento de uma rede neural convolucional profunda baseada na arquitetura
 Modelagem de dados de ponta a ponta para cenários de negócios. Extração de dados complexos via queries otimizadas em SQL, tratamento estatístico em Python e geração de indicadores para tomadas de decisão.
 *   **Techs:** SQL, Python, ETL, Modelagem Estatística.
 
+### 🩻 [Detecção de Pneumonia com Deep Learning e Explainable AI (XAI) em Imagens de Raio-X](https://github.com/AndreeLMO/pneumonia_raiox)
+Desenvolvimento de um sistema inteligente para suporte ao diagnóstico médico, utilizando aprendizagem profunda e inteligência artificial explicável para identificação automatizada de pneumonia em radiografias de tórax.
+* **Abordagem Técnica:** Implementação da arquitetura **DenseNet121** para extração de características e classificação de imagens, integrada com **Grad-CAM** para geração de mapas de calor (saliência), permitindo a interpretabilidade visual das regiões pulmonares que motivaram a decisão do modelo.
+* **Techs:** Python, TensorFlow/Keras, OpenCV, Grad-CAM, Scikit-Learn, Matplotlib.
+* *Status:* Concluído / Código e documentação disponíveis.
 ---
 
 ## 📊 Estatísticas do GitHub
