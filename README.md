@@ -16,7 +16,7 @@
 
 Sou graduado em **Física Médica** pela USP Ribeirão Preto e especialista (MBA) em **Data Science e Analytics pela USP/Esalq**. A minha trajetória une o rigor científico, matemático e analítico da física com o poder computacional da ciência de dados.
 
-Tenho foco no desenvolvimento de soluções de ponta a ponta: desde a engenharia e modelagem de dados com SQL, automação e análise estatística com Python, até o desenvolvimento de modelos de Deep Learning e Visão Computacional aplicados à saúde e negócios.
+Tenho foco no desenvolvimento de soluções de ponta a ponta: desde a engenharia e modelagem de dados com SQL, automação e análise estatística com Python, até o desenvolvimento de modelos de Deep Learning e Visão Computacional aplicados à saúde.
 
 ---
 
