@@ -38,7 +38,7 @@ Desenvolvimento de uma rede neural convolucional profunda baseada na arquitetura
 *   **Techs:** Python, TensorFlow, Keras, OpenCV, Pandas.
 *   *Status:* Concluído / Artigo disponível no repositório.
 
-### 📊 [Pipeline de Analytics & Business Intelligence](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO)
+### 📊 [PySUS: Centro Inteligente de Monitoramento Epidemiológico - Ênfase nos casos de Dengue](https://github.com/AndreeLMO/projeto_dengue)
 Modelagem de dados de ponta a ponta para cenários de negócios. Extração de dados complexos via queries otimizadas em SQL, tratamento estatístico em Python e geração de indicadores para tomadas de decisão.
 *   **Techs:** SQL, Python, ETL, Modelagem Estatística.
 
