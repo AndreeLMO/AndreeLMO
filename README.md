@@ -1,4 +1,4 @@
-# Olá, me chamo André Luiz Magalhães de Oliveira 👋
+# Olá, me chamo André Luiz Magalhães de Oliveira 
 ### Físico Médico & Cientista de Dados
 
 <p align="left">
