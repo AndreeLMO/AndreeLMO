@@ -33,7 +33,7 @@ Tenho foco no desenvolvimento de soluções de ponta a ponta: desde a engenharia
 
 ## 📁 Projetos em Destaque
 
-### 🧬 [Classificação de Imagens Médicas com ResNet50](https://github.com/AndreeLMO/portfolio_redes_neurais)
+### 🧬 [Detecção de Neoplasias Mamárias com Redes Neurais Convolucionais](https://github.com/AndreeLMO/portfolio_redes_neurais)
 Desenvolvimento de uma rede neural convolucional profunda baseada na arquitetura **ResNet50** para identificação e classificação de padrões complexos em exames de imagem (Projeto Capstone USP/Esalq).
 *   **Techs:** Python, TensorFlow, Keras, OpenCV, Pandas.
 *   *Status:* Concluído / Artigo disponível no repositório.
