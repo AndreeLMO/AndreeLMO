@@ -38,9 +38,11 @@ Desenvolvimento de uma rede neural convolucional profunda baseada na arquitetura
 *   **Techs:** Python, TensorFlow, Keras, OpenCV, Pandas.
 *   *Status:* Concluído / Artigo disponível no repositório.
 
-### 📊 [PySUS: Centro Inteligente de Monitoramento Epidemiológico - Ênfase nos casos de Dengue](https://github.com/AndreeLMO/projeto_dengue)
-Modelagem de dados de ponta a ponta para cenários de negócios. Extração de dados complexos via queries otimizadas em SQL, tratamento estatístico em Python e geração de indicadores para tomadas de decisão.
-*   **Techs:** SQL, Python, ETL, Modelagem Estatística.
+### 🦟 [PySUS: Centro Inteligente de Monitoramento Epidemiológico - Ênfase nos casos de Dengue](https://github.com/AndreeLMO/projeto_dengue)
+Desenvolvimento de uma plataforma inteligente voltada para a saúde pública, focada no monitoramento, análise preditiva e mapeamento epidemiológico dos casos de Dengue. O projeto utiliza dados reais integrados de saúde para fornecer insights estratégicos para vigilância sanitária.
+* **Abordagem Técnica:** Extração e tratamento de dados públicos de saúde utilizando a biblioteca **PySUS**, modelagem estatística/preditiva para identificação de tendências de surtos, e estruturação de pipelines de dados para visualização de indicadores epidemiológicos.
+* **Techs:** Python, PySUS, Pandas, NumPy, Geopandas (Mapas/Gis), Matplotlib/Seaborn.
+* *Status:* Concluído / Em desenvolvimento.
 
 ### 🩻 [Detecção de Pneumonia com Deep Learning e Explainable AI (XAI) em Imagens de Raio-X](https://github.com/AndreeLMO/pneumonia_raiox)
 Desenvolvimento de um sistema inteligente para suporte ao diagnóstico médico, utilizando aprendizagem profunda e inteligência artificial explicável para identificação automatizada de pneumonia em radiografias de tórax.
