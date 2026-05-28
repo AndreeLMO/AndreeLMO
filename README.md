@@ -1,16 +1,52 @@
-## Hi there 👋
+# Olá, eu sou o André Luiz Magalhães de Oliveira 👋
+### Físico Médico & Cientista de Dados
 
-<!--
-**AndreeLMO/AndreeLMO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://www.linkedin.com/in/SEU_LINK_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:seu.email@dominio.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre Mim
+
+Sou graduado em **Física Médica** e especialista (MBA) em **Data Science e Analytics pela USP/Esalq**. A minha trajetória une o rigor científico, matemático e analítico da física com o poder computacional da ciência de dados.
+
+Tenho foco no desenvolvimento de soluções de ponta a ponta: desde a engenharia e modelagem de dados com SQL, automação e análise estatística com Python, até o desenvolvimento de modelos de Deep Learning e Visão Computacional aplicados à saúde e negócios.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+| Categoria | Tecnologias Dominadas |
+| :--- | :--- |
+| **Linguagens** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23270C40.svg?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=flat-square&logo=mysql&logoColor=white) |
+| **Data Science & IA** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![SciKit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) |
+| **Visão Computacional** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) `ResNet50` `CNNs` |
+| **Infra & Ferramentas** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+
+---
+
+## 📁 Projetos em Destaque
+
+### 🧬 [Classificação de Imagens Médicas com ResNet50](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO)
+Desenvolvimento de uma rede neural convolucional profunda baseada na arquitetura **ResNet50** para identificação e classificação de padrões complexos em exames de imagem (Projeto Capstone USP/Esalq).
+*   **Techs:** Python, TensorFlow, Keras, OpenCV, Pandas.
+*   *Status:* Concluído / Artigo disponível no repositório.
+
+### 📊 [Pipeline de Analytics & Business Intelligence](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO)
+Modelagem de dados de ponta a ponta para cenários de negócios. Extração de dados complexos via queries otimizadas em SQL, tratamento estatístico em Python e geração de indicadores para tomadas de decisão.
+*   **Techs:** SQL, Python, ETL, Modelagem Estatística.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
